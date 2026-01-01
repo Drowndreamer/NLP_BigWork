@@ -1,0 +1,17 @@
+Metric,Value
+LR_Original_Accuracy,0.8523
+LR_Original_Precision,0.8456
+LR_Original_Recall,0.8612
+LR_Original_F1,0.8533
+LR_Adversarial_Accuracy,0.6847
+LR_Attack_Success_Rate,0.668
+LR_Avg_Perturbation,0.132
+LR_Semantic_Similarity,0.91
+BERT_Original_Accuracy,0.9187
+BERT_Original_Precision,0.9234
+BERT_Original_Recall,0.9125
+BERT_Original_F1,0.9179
+BERT_Adversarial_Accuracy,0.7965
+BERT_Attack_Success_Rate,0.513
+BERT_Avg_Perturbation,0.161
+BERT_Semantic_Similarity,0.89
